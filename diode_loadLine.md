@@ -98,7 +98,7 @@ I(D1)값을 넣어준다.
 
 # 5 Load Line 구하기 이론
 
-![17](/picture/17.jpg|500){: width="200" height="200"}
+<img src="/picture/17.jpg" width="300" height="150">
 
 다음 회로는
 KVL법칙에 따라 아래와 같은 식이 나온다.
@@ -121,7 +121,7 @@ $$
 
 따라서 Load Line은 다음과 같다.
 
-![16](/picture/16.jpg){: width="500" height="500"}
+<img src="/picture/16.jpg" width="500" height="350">
 
 여기서 VDD는 최대 5V이고 RL은 100Ω이므로 
 
