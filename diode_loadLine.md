@@ -112,7 +112,7 @@ V_{DD}=I_{D}R_{L}+V_{D}. . . 1
 $$
 
 $$
-when \ \ \ V_{DD}=0 -> I_{D}=\frac{V}{R_{L}}
+when \ \ \ V_{D}=0 -> I_{D}=\frac{V_{DD}}{R_{L}}
 $$
 
 $$
